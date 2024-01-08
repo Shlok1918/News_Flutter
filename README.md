@@ -2,6 +2,27 @@
 
 NewsAPP
 
+
+## Download and Installation
+
+To use the News App, follow these steps:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/Shlok1918/news_flutter.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd news_flutter
+3. Install dependencies:
+   ```bash
+   flutter pub get
+4. Run the app on an emulator or connected device:
+   ```bash
+   flutter run
+5. app should run properly.
+
+   
 ## Getting Started
 
 This project is a starting point for a Flutter application.
