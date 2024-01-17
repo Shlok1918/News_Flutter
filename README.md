@@ -22,7 +22,14 @@ To use the News App, follow these steps:
    flutter run
 5. app should run properly.
 
-   
+
+## Demo Video
+
+
+https://github.com/Shlok1918/News_Flutter/assets/131788904/9eed306d-471d-45fa-996a-24cd8eda6cda
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
